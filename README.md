@@ -23,5 +23,6 @@ Bunch of samples android basic projects. :computer:
 5. [Google Web Services](https://developers.google.com/places/web-service/)
 6. [The Movie Database](https://developers.themoviedb.org/3/getting-started) 5 :star:
 7. [Retrofit by Vogella](http://www.vogella.com/tutorials/Retrofit/article.html#retrofit)
+8. [Retrofit by Android Hive](https://www.androidhive.info/2016/05/android-working-with-retrofit-http-library/)
 
 
