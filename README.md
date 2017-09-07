@@ -27,5 +27,5 @@ Bunch of samples android basic projects. :computer:
 
 ## Material and Tutorials
 1. [Google Code Labs](https://codelabs.developers.google.com/)
-
+2. [GitHub code path android guides](https://github.com/codepath/android_guides/wiki/Home)
 
