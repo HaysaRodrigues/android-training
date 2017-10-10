@@ -1,0 +1,7 @@
+#Mon Oct 09 21:38:18 BRT 2017
+base.0=/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cb690f183c0c68405128555524016c911629610d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7e2ca4cecc630d8963b51dd4518a785b453c80bf/classes.dex
+base.1=/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7e2ca4cecc630d8963b51dd4518a785b453c80bf
+file.0=/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cb690f183c0c68405128555524016c911629610d/classes.dex

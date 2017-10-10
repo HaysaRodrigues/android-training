@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/721d7ac5d97140970f94cabf5dc2175d11c32f7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fb2dcdf6543ef3e09d1f683bef058bc076b54de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/5c2680fe72a7275be1cab25e5197160e3fe8bc00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e931d646306cda661c5b34203189ad609f07914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/b254f5d5255896432acfe09bfad34a65a3e86ca0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64423085b35760f7009f356ccbcf447f0c519412/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/b6060ba9ac2ce2b152c649f2665e87913e01efea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7ace6687f36b009cd4725286ccf2ad610bf030f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/f1fa9207cc2dac5cdb4d2b137b6f0bbdcfa7e3f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdfac2db5231737140bcf8955118d431997b5000/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/a73f577c7c4f94cad42912c652e44a70d26cb041/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fb31464c2257d9c58190c66cd3c46a4fa142b55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/cc0eb05373c4eaa96d803d4f19868b335444536c/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_aebc3ec09a467ead73bf1ddf8ac57f59e7fc4d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/c172e1eadd2c4ca6d4d08947d58811d8d0830cec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b8dcab06ca38c383204fa8fdd0b6890c3982617/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/862a9553eb2840708078c6de86347bd49f6a86a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01f56591d3c870dde5d5bceb34d333d3bece678a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/aed7daf48575415dda18daf78e97be849e9e24f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e54ed29586a9498fc2b3ae8b455762161a0ba972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/ec48e5f0fd21e02184951cea4067fb4644f634fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_256bb7357907779b3341fd686b97173ffe107e07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/300629b6f11a2bb7fe0eaaf2b6932ba8449e160f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_939cf7e16c3f0f5d5bbac5bed23e74a5b8dfbc84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/45fdf532c212511ffa152ac9c5729c9c62c83863/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb934388fc43c0f19ce58d84289369e6ec66f9f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af2a0b78c597f71aad8caa382f65fd7e7538f4ac">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cb690f183c0c68405128555524016c911629610d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/c08c21b09453080132b13f0f85ead2fb3ad68933/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac27c3f78a52f333818a28364403d3b2b540d3d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/f9d2e7f5773dec79dfc49e2f4661a113a8af6a63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e1a690169c256c01bf9b510cde322105d0d80fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/cb12ede3d762116e1f8f854bf6c67ffaf8a925a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b797f254bca15c71cbbf9ae9e6c445921aebc59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/17996d36be69b629c03b2392ee743b94f5ccf028/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d78841e29275fa01415f830bef4d71735635df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/b8e8f53f19d9bc6279b4d46d6741424e46da1e40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc4a9c9169a89a67307a6338cae3cf7d9aad90c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/4011f715902178a8b09d02cfe25d472316694cd5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0ad76ec2bb6c9a297cd31cbfd5265420aacf0ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/25786d02697530f4471849da1e4a97199b16849b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3db3998b41faebfea6fcb532ebc5198f266d23d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/3ac2365b28ea44650adf1f3d3147ee40d151035e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73b995342e8397f5109500b99bf3b65a283b2a6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/73f78fc486a9560c07886632281748b0b7e47752/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ebec6d8d73a671503184aefd9fcbae42c2e04ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/dec3eadd27021df171aa4e61b68c23b638c00aea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ad602d58f22beb14fdc1a90828dbe5584f3dd9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/ddf7c8a447d060fb9efaf023aeba88ec5ac9d072/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe4a9adb6fdfa2c6064ada1162cd54d07e77e330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/406e463ad7cdb1b4bd8c54bfe6bfa563a5278da0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bd859256b3afd883cffaa7093ea6595a0f9c081/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/bbfbbaf79249bdf51bb6b49402b0306fdb9a7b5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4d183b5abe592801d6abc053ce22eb37b8eb45a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/996d0af85313cf565d7634e1b3336ad6d016b7e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10680cc31dbd1f351f26d0de930e8b8c417f1269/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/470f71b8ff3a820633c7ab253f20dd4b544ef3d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07e3b6cbaa334036f5446318b5b27575cd6444dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/d4136d875af7736a31a332e4e0f0abc1c93e5a48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13f11f3e922d4c77544e53cc290aabd7015d4cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/58828335e593d23f47070590174b37e17a736530/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11ffa547cfd3d6ef8ff3960932ea2d53dc6279cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/ca2e2ee181aad23aeac65a753aa026fd0f57dcfb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38303433a5b90f757891c9242990942346423cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/ff0a6598f23e33ed21d615d0f7a2edf7048032ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_575a195eecff1efd04ada0bb2a473d611b073526/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/a66153bc65aa6a91136fcbf57a5eb9304a4381d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b85a47a7360d227087c73dfef57161a1a320a4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/3d753227e9ab9ee7f92224cc24135e59086d8709/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22c0f0ea21bdd611e7d944af2e5190b100b5bc5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/ad23e598fa2811d752542a6093c06bc17e552d90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80dacedfdf3b32e7256d82f8c0c358a2698692b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/0c133cf3b4e41733deafc397605c3b31f80eab8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e266090d016dc2a55770a675ca79615fa260c097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/554b4b35f8b2eb2638c9059d1233d1d06f7174af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d426b73f36077ab40b3f3596da811f0cd219fc54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/d6e008ff266c7f1c08a9e50bfcb4653c55a196f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2244c07a7aa2b2118a5a7da5dee7406196b60244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/cc0eb05373c4eaa96d803d4f19868b335444536c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2738e89d2264da71eeee3bc84499a8b726837b59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/a72c13dd9c86c32bb18e2ecbcb8811bbdf60ab74/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee49e00abcde84d0463d49aa04e8393531f5f9f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/6b0f3e49cae086f9f5758810ce05b4fe93b63c80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76ef5df45fcbe7e54f4d280f68a8ef7d8069d7a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/1e37fe41cfb37218994c8dae3c8698c9fec03fa2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1fe115ac633e8da19f82f668382a4e20c4175e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/09c8640dfd517ff6a72a6e3ab108e0d777f4ba5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d27eedb140d271aecc9a38b93c6389ff04b68784/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/e89d12962bb338801d56954a8f6f6815e55122ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ec3445dd7a4dcb5f00b66a5d7653dcec63ac7da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_a5963076bd56a275e9b5ffaeec0373fdfdb0674c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7e2ca4cecc630d8963b51dd4518a785b453c80bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/cf35bd0d9faf9dbca91b4a1f1066d6f6859659fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fda414af363bd57eb854852e8b3407956aa8da5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/67e092af27e0005d887f95269c7ebe7850872dba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83517b039a0566b02fef96b049e4b8ec6fda2f15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/f01748881c01f842375b1a8f58296061932a3115/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe890d3f7bcd6821a375b80cef54e324b3b640c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_309c5b7ab490a47712d852386f19b11aaffa02e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/892a9820665d50cf2f7c7f4fde9ada6558d75257/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8d0d4802f03c5ef99f5b09d89bdc187abd765c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/8737cf0823164e23a4b4875c3119784de30cc968/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce4fe2cb01bca75cfd8d0c826da085bb14c19109/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/e33d2a84212b0534b5bd4feed794d94cd6a62007/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_945bd763feb2f7217c5640f4f8211e150568b2dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haysarodrigues/.android/build-cache/e130146ecc3c10f5cfc88fe151e368a1b67c0528/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/haysarodrigues/AndroidStudioProjects/samples-android-study/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc04aae4d44093b1e6ea1486a8f795aec4d22c17/classes.dex" />
+    </item>
+
+</items>
