@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(MainActivity.this, "R$" + String.format("%.2f", convertedResult), Toast.LENGTH_LONG).show();
 
-        Log.i("VITORYYYYYYYYYYYYYYY", amount.getText().toString());
+        Log.i("VITORY", amount.getText().toString());
     }
 
     @Override

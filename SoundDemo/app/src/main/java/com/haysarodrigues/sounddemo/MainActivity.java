@@ -15,12 +15,12 @@ public class MainActivity extends AppCompatActivity {
     MediaPlayer mplayer;
     AudioManager audioManager;
 
-    public void playAudio(View view){
+    public void playAudio(View view) {
         mplayer.start();
 
     }
 
-    public void pauseAudio(){
+    public void pauseAudio() {
         mplayer.pause();
     }
 
@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         volumeControl.setMax(maxVolume);
         volumeControl.setProgress(curVolume);
 
-        volumeControl.setOnSeekBarChangeListener(new OnSeekBarChangeListener(){
+        volumeControl.setOnSeekBarChangeListener(new OnSeekBarChangeListener() {
 
             @Override
             public void onStartTrackingTouch(SeekBar seekBar) {
@@ -56,10 +56,8 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
-               Log.i("SeekBar PROGRESS", String.valueOf(progress));
-               // Log.i("SeekBar FROM USER", String.valueOf(fromUser)); //será que se isso for automatizado ele retorna false do fromuser?
-                //Log.i("SeekBar seekBar", String.valueOf(seekBar));
 
+                Log.i("SeekBar PROGRESS", String.valueOf(progress));
                 audioManager.setStreamVolume(AudioManager.STREAM_MUSIC, progress, 0);
 
 
