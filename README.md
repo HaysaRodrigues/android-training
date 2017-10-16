@@ -24,7 +24,7 @@ Bunch of samples android basic projects and references. :computer:
 2. [GitHub code path android guides](https://github.com/codepath/android_guides/wiki/Home)
 3. [Google Developers Training](https://developers.google.com/training/courses/android-fundamentals) :star: :star:
 
-## Tips
+## Blogs & references that you should keep an eye on it!
 1. [Material Palette](https://www.materialpalette.com/)
 2. [AMAZON DEVICE FARM](https://aws.amazon.com/device-farm/)
 3. [Pretty much tips](https://riggaroo.co.za/resources-getting-started-android-development/) 
