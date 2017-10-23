@@ -31,6 +31,7 @@ Bunch of samples android basic projects and references. :computer:
 
 ### Android Testing
 1. [Android Testing tech talk from Android Dialogs](https://www.youtube.com/watch?v=fySCosLQQws)
+2. [Firebase Test Lab](https://firebase.google.com/docs/test-lab/)
 
 ### Best practices
 1. [android-best-practices](https://github.com/futurice/android-best-practices) - Repository with best practices for Android :star:
