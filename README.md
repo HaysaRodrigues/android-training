@@ -23,6 +23,7 @@ Bunch of samples android basic projects and references. :computer:
 1. [Google Code Labs](https://codelabs.developers.google.com/)
 2. [GitHub code path android guides](https://github.com/codepath/android_guides/wiki/Home)
 3. [Google Developers Training](https://developers.google.com/training/courses/android-fundamentals) :star: :star:
+4. [Udacity has a lot of content about Android Development](https://udacity.com)
 
 ### Blogs & references that you should keep an eye on it!
 1. [Material Palette](https://www.materialpalette.com/)
