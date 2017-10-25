@@ -18,6 +18,7 @@ Bunch of samples android basic projects and references. :computer:
 6. [The Movie Database](https://developers.themoviedb.org/3/getting-started) 5 :star:
 7. [Retrofit by Vogella](http://www.vogella.com/tutorials/Retrofit/article.html#retrofit)
 8. [Retrofit by Android Hive](https://www.androidhive.info/2016/05/android-working-with-retrofit-http-library/)
+9. [Scanner tricks Java](https://community.oracle.com/blogs/pat/2004/10/23/stupid-scanner-tricks)
 
 ### Material and Tutorials
 1. [Google Code Labs](https://codelabs.developers.google.com/)
