@@ -31,9 +31,11 @@ Bunch of samples android basic projects and references. :computer:
 2. [AMAZON DEVICE FARM](https://aws.amazon.com/device-farm/)
 3. [Pretty much tips](https://riggaroo.co.za/resources-getting-started-android-development/) 
 
-### Android Testing
+### Android Quality, Testing and Code Quality
 1. [Android Testing tech talk from Android Dialogs](https://www.youtube.com/watch?v=fySCosLQQws)
 2. [Firebase Test Lab](https://firebase.google.com/docs/test-lab/)
+3. [Improve Your Code with Lint](https://developer.android.com/studio/write/lint.html)
+
 
 ### Best practices
 1. [android-best-practices](https://github.com/futurice/android-best-practices) - Repository with best practices for Android :star:
