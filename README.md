@@ -1,4 +1,4 @@
-# android-samples-studying
+# Study mapping for Android 
 Bunch of samples android basic projects and references. :computer:
 
 ### Fragment
